@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Olá meu nome é Igor Oliveira Schneider tenho 17 anos, sou um aluno de D.S e utilizo a linguagem de Python</p>
+<p align="center">Olá meu nome é Igor Oliveira Schneider tenho 17 anos, sou um aluno de D.S e utilizo a linguagem de Python, pretendo aprender java.</p>
 
 ###
 
